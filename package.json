@@ -1,0 +1,12 @@
+{
+  "name": "devops-fase1",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest --coverage",
+    "lint": "eslint src/"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "eslint": "^8.0.0"
+  }
+}
